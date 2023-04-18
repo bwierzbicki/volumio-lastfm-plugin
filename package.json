@@ -1,6 +1,6 @@
 {
 	"name": "lastfm",
-	"version": "1.5.6",
+	"version": "1",
 	"description": "Installs a LastFM scrobbler which uses the Volumio artist and track info.",
 	"main": "index.js",
 	"scripts": {
@@ -9,7 +9,7 @@
 	"author": "Saiyato",
 	"license": "GPL-3.0",
 	"volumio_info": {
-		"prettyName": "LastFM Scrobbler",
+		"prettyName": "LastFM Scrobbler fork",
 		"icon": "fa-lastfm",
 		"plugin_type": "user_interface",
 		"os": [
@@ -35,8 +35,8 @@
 		"socket.io-client": "^1.4.8",
 		"v-conf": "^0.10.0"
 	},
-	"repository": "https://github.com/Saiyato/volumio-lastfm-plugin",
-	"keywords": [	
+	"repository": "https://github.com/bwierzbicki/volumio-lastfm-plugin",
+	"keywords": [
 		"fm",
 		"lastfm",
 		"last",
