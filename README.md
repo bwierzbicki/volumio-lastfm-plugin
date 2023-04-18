@@ -1,4 +1,4 @@
 # volumio-lastfm-plugin
-Plugin to scrobble music played in Volumio 2.x to LastFM.
+Plugin to scrobble music played in Volumio 3 to LastFM.
 
-Also features a similar artists/tracks function in the browse section.
+Allows to blacklist words from artist to prevent scrobble unwanted radio entries. Also allows user to set multiple separators for radio artist, trackname.
